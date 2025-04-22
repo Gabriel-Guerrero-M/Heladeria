@@ -61,7 +61,3 @@ Este proyecto es una excelente base. Aquí tienes algunas ideas para futuras mej
 ## ¡Contribuciones son bienvenidas!
 
 Siéntete libre de forkear este repositorio y realizar mejoras. ¡Cualquier contribución que hagas será valiosa!
-
----
-
-¡Espero que este README te sea de gran utilidad para tu repositorio! Si tienes alguna otra pregunta o necesitas más ayuda, no dudes en consultarme. ¡Felices ventas de helados! 🍦
