@@ -24,10 +24,10 @@
 ## Cómo Ejecutar
 
 1.  **Compilador de C++:** Asegúrate de tener un compilador de C++ instalado en tu sistema (por ejemplo, g++).
-2.  **Guardar el Código:** Guarda el código proporcionado en un archivo con extensión `.cpp` (por ejemplo, `heladeria.cpp`).
+2.  **Guardar el Código:** Guarda el código proporcionado en un archivo con extensión `.cpp` (por ejemplo, `heladeriaS.cpp`).
 3.  **Compilar:** Abre una terminal o línea de comandos y navega hasta el directorio donde guardaste el archivo. Luego, compila el código utilizando el siguiente comando:
     ```bash
-    g++ heladeria.cpp -o heladeria
+    g++ heladeriaS.cpp -o heladeria
     ```
 4.  **Ejecutar:** Una vez compilado, ejecuta el programa con el siguiente comando:
     ```bash
